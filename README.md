@@ -1,2 +1,2 @@
 New Zero-Cost Architecture Method 
-HAT-DisWOT stands for Hybrid Adaptative Temperature : Student Architecure Search for KD
+HAT-DisWOT stands for Hybrid Alignment and Adaptative Temperature-aware DisWOT : Student Architecure Search for KD
